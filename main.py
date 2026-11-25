@@ -1,6 +1,6 @@
 import os
 
-LINE = "My cat walked across my keyboard during work and typed random letters to my boss and then went to sleep like nothing happened."
+LINE = "My cat sat on my keyboard, sent 'asdkfj' to my boss, and then napped like she'd done her job."
 
 def main() -> None:
     os.makedirs("/output", exist_ok=True)
